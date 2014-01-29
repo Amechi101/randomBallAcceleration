@@ -12,5 +12,4 @@ Twitter: http://twitter.com/FashionIdealist
 
 Instagram: http://instagram.com/fashion_idealist
 
-Will add more information to extend the application soon!
-=======================
+- The js folder simply holds the same javascript code in the HTML file, but only javascript will be inside the ballApp.js file.
